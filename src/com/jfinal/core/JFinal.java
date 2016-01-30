@@ -33,7 +33,7 @@ import com.jfinal.token.TokenManager;
 import com.jfinal.upload.OreillyCos;
 
 /**
- * JFinal test commit
+ * JFinal
  */
 public final class JFinal {
 	
